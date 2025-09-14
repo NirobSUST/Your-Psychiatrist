@@ -58,7 +58,7 @@ Your-Psychiatrist/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/your-psychiatrist.git
+git clone https://github.com/NirobSUST/Your-Psychiatrist.git
 cd your-psychiatrist
 ```
 
