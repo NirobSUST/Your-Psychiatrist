@@ -1,0 +1,53 @@
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'p' @7333107: b'codemantra.com)/The process that creates this PDF constitutes a trade secret of '")
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'p' @7333107: b'codemantra.com)/The process that creates this PDF constitutes a trade secret of '")
+INFO:root:Session ID: None, User Query: hi, Model: mistral
+INFO:root:Session ID: None, User Query: hi, Model: mistral
+INFO:root:Session ID: None, User Query: hi, Model: mistral
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+ERROR:fastapi:Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+WARNING:pypdf.generic._data_structures:PdfReadError("Invalid Elementary Object starting with b'p' @7333107: b'codemantra.com)/The process that creates this PDF constitutes a trade secret of '")
+INFO:root:Session ID: None, User Query: hi, Model: mistral
+INFO:root:Session ID: c4af6484-8e87-419d-a023-cdc4862a91b4, AI Response:  Based on the provided context, it appears you're asking for a correlation between ICD-9-CM/ICD-10-CM codes related to alcohol use disorders and the Alternative DSM-5 Model for Personality Disorders, specifically the Level of Personality Functioning Scale.
+
+However, there isn't a direct correlation between these two systems as they are used for different purposes. The ICD-9-CM/ICD-10-CM codes focus on diagnosing and coding various health conditions, including alcohol use disorders. On the other hand, the Alternative DSM-5 Model for Personality Disorders is a tool used to assess personality functioning in individuals, regardless of whether they have a disorder or not.
+
+The Level of Personality Functioning Scale you've provided is part of this alternative model and it measures an individual's level of impairment across several domains: Identity, Self-direction, Empathy, Intimacy, and more. This scale can be used to understand an individual's personality functioning in a broader context, but it doesn't directly relate to alcohol use disorders as coded by ICD-9-CM/ICD-10-CM.
+
+If you're interested in understanding how personality functioning might impact someone with an alcohol use disorder, it would be more appropriate to look at comorbidities (the presence of two or more health conditions at the same time) rather than trying to find a direct correlation between these two systems.
+INFO:root:Session ID: None, User Query: what is the reasons behind Schizophrenia? , Model: mistral
+INFO:root:Session ID: 46226607-b864-44da-884b-9f66d3624bea, AI Response:  Schizophrenia is a complex mental disorder that is not fully understood yet, but it's believed to be caused by a combination of genetic, environmental, and developmental factors.
+
+1. Genetic Factors: Research suggests that schizophrenia has a significant genetic component. If you have a close relative with the condition, your risk of developing it is higher than average. However, having a family history does not guarantee that you will develop schizophrenia.
+
+2. Environmental Factors: Certain environmental factors may also play a role in the development of schizophrenia. These can include stressful or traumatic events during pregnancy or childhood, viral infections, malnutrition, and exposure to toxins.
+
+3. Developmental Factors: The brain changes associated with schizophrenia appear to begin in adolescence, suggesting that developmental factors may be involved. Abnormalities in brain structure and function, particularly in areas related to thinking, language, emotion, and perception, are thought to contribute to the symptoms of schizophrenia.
+
+It's important to note that while these factors can increase the risk of developing schizophrenia, most people who have them do not develop the disorder. The exact causes of schizophrenia remain unknown, and more research is needed to fully understand this complex condition.
+INFO:root:Session ID: 46226607-b864-44da-884b-9f66d3624bea, User Query: what meds should someone take if he/she have it?, Model: mistral
+INFO:root:Session ID: 46226607-b864-44da-884b-9f66d3624bea, AI Response:  If a person has been diagnosed with schizophrenia, the primary treatment is typically antipsychotic medication. The choice of medication depends on various factors such as the severity of symptoms, the individual's response to previous treatments, and any potential side effects or interactions with other medications.
+
+Antipsychotic medications can be divided into two main categories: typical (or first-generation) antipsychotics and atypical (or second-generation) antipsychotics. Some examples of typical antipsychotics include chlorpromazine, haloperidol, and fluphenazine, while examples of atypical antipsychotics include clozapine, risperidone, olanzapine, quetiapine, and aripiprazole.
+
+In addition to medication, people with schizophrenia may also benefit from psychosocial treatments such as cognitive-behavioral therapy (CBT), family therapy, social skills training, and vocational rehabilitation. These therapies can help manage symptoms, improve functioning, and support overall well-being.
+
+It's important to note that the choice of treatment should be individualized based on the person's specific needs and circumstances, and should be made in consultation with a mental health professional. It's also crucial for individuals with schizophrenia to adhere to their treatment plan, as non-adherence can lead to increased symptoms, relapse, and poorer outcomes.
+INFO:root:Session ID: 46226607-b864-44da-884b-9f66d3624bea, User Query: What is ADHD?, Model: mistral
+INFO:root:Session ID: 46226607-b864-44da-884b-9f66d3624bea, AI Response:  Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity that interfere with functioning or development. The essential feature of ADHD is a pattern of symptoms that includes difficulty sustaining focus, wandering off task, excessive motor activity, extreme restlessness, fidgeting, talking excessively, and impulsiveness. These symptoms can cause significant impairment in social, academic, or occupational functioning.
+
+ADHD is typically diagnosed in childhood but can persist into adulthood. The disorder affects both children and adults and is more common in boys than girls. ADHD can have a significant impact on an individual's quality of life, including their ability to maintain relationships, perform well academically or professionally, and manage daily tasks.
+
+The diagnosis of ADHD requires the presence of symptoms for at least six months and evidence of impairment in multiple settings (e.g., school, home, work). The disorder can be diagnosed based on patterns of symptoms, co-morbidity, and shared risk factors. Treatment typically includes medication, psychotherapy, behavioral interventions, and educational accommodations.
